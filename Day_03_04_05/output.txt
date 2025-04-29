@@ -1,7 +1,0 @@
-hello worl
-hello world
-welcome to java
-welcome
-to
-java
-hello people
